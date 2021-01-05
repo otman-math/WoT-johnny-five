@@ -1,12 +1,12 @@
 # Decsription
 
-L’objectif du TP est de vous faire développer une application Web of Things (WoT), qui utilise un arduino Uno, avec capteurs et actionneurs.
+L’objectif de ce projet est de vous faire développer une application Web of Things (WoT), qui utilise un arduino Uno, avec la librairie johnny-five et avec capteurs et actionneurs.
 
 ### Informations générales:
 
-Notre travail a été réalisé sur le repo :
+Mon travail a été réalisé sur le repo :
 
-<https://forge.univ-lyon1.fr/p1926691/tp4_arduino.git>
+<https://github.com/otman-math/WoT-johnny-five.git>
 
 ### Tache 1:
 
@@ -20,9 +20,9 @@ Mise en place du circuit
 
 ## install
 
-\$ git clone https://forge.univ-lyon1.fr/p1926691/tp4_arduino.git
+\$ git clone https://github.com/otman-math/WoT-johnny-five.git
 
-\$ cd tp4_arduino
+\$ cd WoT-johnny-five
 
 \$ npm install
 
@@ -38,10 +38,4 @@ Mise en place du circuit
 
 ## Authors :
 
-- **Otman Mataich** 11926691
-
-- **Fayçal Bziou** 11926796
-
-- **Nabil Djebbar** 11927997
-
-- **Asmaa Lahmer** 11926618
+- **Otman Mataich**
